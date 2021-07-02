@@ -6,7 +6,7 @@
         public $attr2 = 'Eu sou um atributo normal';
 
         public static function metodo1() {
-            echo 'Eu sou um método estatico';        
+            echo 'Eu sou um método estatico';       
         }
 
         public function metodo2() {
